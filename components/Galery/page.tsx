@@ -4,10 +4,10 @@ import Image from "next/image";
 
 export default function GalleryPage() {
   const images = [
-    "/img/tor1.jpg",
-    "/img/tor2.jpg",
-    "/img/tor3.jpg",
-    "/img/tor4.jpg",
+    "/img/Tor1.JPG",
+    "/img/Tor2.JPG",
+    "/img/Tor3.JPG",
+    "/img/Tor4.JPG",
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
